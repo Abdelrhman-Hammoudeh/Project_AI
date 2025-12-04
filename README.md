@@ -1,5 +1,5 @@
 # Project_AI
-# Heart Disease Prediction - End-to-End Machine Learning Project
+
 
 ## 📋 نبذة عن المشروع (Project Overview)
 
@@ -55,7 +55,7 @@ heart-disease-prediction/
 
 ### 1. استنساخ المستودع (Clone the Repository)
 ```bash
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git clone https://github.com/Abdelrhman-Hammoudeh//Project_AI.git
 cd heart-disease-prediction
 ```
 
@@ -77,15 +77,15 @@ pip install -r requirements.txt
 jupyter lab notebooks/
 ```
 ثم افتح:
-- `01_Exploratory_Data_Analysis.ipynb` أولاً
-- `02_Machine_Learning_Pipeline.ipynb` ثانياً
+- `DS.ipynb` أولاً
+- `MLipynb` ثانياً
 
 ---
 
 ## 📖 مراحل المشروع (Project Stages)
 
 ### المرحلة الأولى: استكشاف البيانات (EDA - Data Science Phase)
-**الملف:** `01_Exploratory_Data_Analysis.ipynb`
+**الملف:** `DS.ipynb`
 
 ✅ **المهام المنجزة:**
 - تحميل البيانات وفحص جودتها
@@ -96,7 +96,7 @@ jupyter lab notebooks/
 - اكتشاف التحيز الجغرافي في البيانات
 
 ### المرحلة الثانية: بناء النموذج (ML Engineering Phase)
-**الملف:** `02_Machine_Learning_Pipeline.ipynb`
+**الملف:** `ML.ipynb`
 
 ✅ **المهام المنجزة:**
 - تنظيف البيانات بناءً على رؤى EDA
@@ -218,9 +218,8 @@ jupyter lab notebooks/
 ## 📚 المراجع (References)
 
 1. UCI Machine Learning Repository
-2. Scikit-learn Documentation
-3. Statistical Learning Theory
-4. Clinical Cardiology Guidelines
+2. Matireal Chapters
+3. Clinical Cardiology Guidelines
 
 ---
 
